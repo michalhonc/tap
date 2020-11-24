@@ -1,8 +1,0 @@
-[package]
-name = "tap"
-version = "0.1.0"
-authors = ["Michal Honc <info@michalhonc.cz>"]
-edition = "2018"
-
-[dependencies]
-structopt = "0.3.13"
